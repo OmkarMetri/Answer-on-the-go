@@ -1,0 +1,14 @@
+Manish,Django
+Manish,C++
+Omkar,Django
+Manish,Php
+Manish,Java
+Usman,Java
+Usman,Python
+Usman,Apple
+Manish,JavaScript
+Nesara,Java
+Nesara,C++
+Nesara,Google
+Nesara,Apple
+Nesara,Bill Gates

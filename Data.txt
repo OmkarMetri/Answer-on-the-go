@@ -1,0 +1,45 @@
+C++,It is a type of Programming Language
+Python,It is type of Programming Language
+Ruby,It is also a type of Programming Language
+Java,It is a type of Programming Language
+Scala,It is a type of Programming Language
+JavaScript,It is a type of Scriptitng Language
+Laptop,It is a type of Machine
+Django,It is web development framework
+Php,It is a Scripting Language
+What do you mean by Google,It is a Search Engine
+Developed by Larry Page
+C++,Was developed by Djarne
+Speaker,It is an audio output device.
+Heap,A binary heap is an almost complete binary tree in which the value  of root node is either greater than or equal to(max heap) or less than or equal to its child nodes.
+Linked List,is a data structure used for storing collections of data in which successive elements are connected by pointers.
+
+Queue,A is an ordered list in which insertions are done at the other end (front).The first element to be inserted is the first element to be deleted.(FIFO)
+
+Tree, is a data structure similar to a linked list but instead of each node pointing simply to the next node in a linear fashion each node points to a number of nodes. Tree is an example of a nonlinear data structure. A tree structure is a way of representing the hierarchical nature of a structure in a graphical form.
+
+Binary Tree,A tree is called if each node has zero child one child or two children. Empty tree is also a valid binary tree. We can visualize a binary tree as consisting of a root and two disjoint binary trees called the left and right subtrees of the root.
+
+Priority Queue,is ADT is a data structure that supports the operations Insert and DeleteMin (which returns and removes the minimum element) or DeleteMax (which returns and removes the maximum element).
+
+Hashing,It is a technique used for storing and retrieving information as quickly as possible. It is used to perform optimal searches and is useful in implementing symbol tables.
+
+Meaning of Manish,Manish is a name
+Mridu,Mridu is another name.
+Mohammed,Holy prophet of Islam
+Meaning of H,Its an alphabet.
+What does anyone want,A purpose
+What is JavaScript,JavaScript  often abbreviated as JS  is a high-level dynamic weakly typed  prototype-based multi-paradigm and interpreted programming language. 
+Youtube, is an American video-sharing website headquartered in San Bruno, California. 
+PayPal, is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders.
+Apple, is an American multinational technology company headquartered in Cupertino California that designs develops and sells consumer electronics computer software and online services.
+Bill Gates,William Henry Gates III (born October 28  1955) is an American business magnate investor author  philanthropist and co-founder of the Microsoft Corporation along with Paul Allen. 
+Satya Nadella,Satya Narayana Nadella (born 19 August 1967) is an Indian American business executive. He is the current Chief Executive Officer (CEO) of Microsoft succeeding Steve Ballmer in 2014.
+Machine Learning,Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed.
+NLP,Neuro-linguistic programming (NLP) is an approach to communication personal development and psychotherapy created by Richard Bandler and John Grinder in California United States in the 1970s.
+AI,Artificial intelligence (AI Artificial intelligence (AI  also machine intelligence  MI) is Intelligence displayed by machines  in contrast with the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of success at some goal, also machine intelligence  MI) is Intelligence displayed by machines in contrast with the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of success at some goal.
+Paytm,Paytm is an Indian electronic payment and e-commerce brand based out of Delhi NCR  India. Launched in August 2010  it is a consumer brand of parent company One97 Communications.
+
+Data Structure,In computer data structure is a way of oraganising and storing the data in a computer so that it can be accessed and modified efficiently. 
+Post,Post is method of sending the data in encrypted form
+Quora,It is a popular Q&A type of search engine where people can answer any question and get the reply for there answer from the different user of the quora
