@@ -1,14 +1,12 @@
 # Answer-on-the-go
-Third Semester Miniproject. 
-Team Members: Manish Soni, Muhammad Usman and Omkar Metri
 Basic version of quora
 
-Pre-requisite to run the program
+## Pre-requisite to run the program
 1. Python
 2. Install tkinter
 3. Before running make sure all the files are in the same directory.
 
-Features:
+## Features:
 1. SignUp page
 2. Login page
 3. Search
